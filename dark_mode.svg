@@ -1,97 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1097" height="570" viewBox="0 0 1097 570" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace">
-<title>Lucca Schuller</title>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
-text { white-space: pre; }
-.arte { fill: #c9d1d9; font-size: 9px; }
-.info { fill: #c9d1d9; font-size: 16px; }
-.k { fill: #ffa657; }
-.v { fill: #a5d6ff; }
-.d { fill: #616e7f; }
-.t { fill: #c9d1d9; }
-.del { fill: #ff7b72; }
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
 </style>
-<rect x="0.5" y="0.5" width="1096" height="569" rx="15" fill="#161b22" stroke="#30363d"/>
-<text class="arte" xml:space="preserve">
-<tspan x="25" y="33"></tspan>
-<tspan x="25" y="43"></tspan>
-<tspan x="25" y="53"></tspan>
-<tspan x="25" y="63">                       _____ _________</tspan>
-<tspan x="25" y="73">                __y@@@@@@@@@@@@@@@@@@@@@yy__</tspan>
-<tspan x="25" y="83">              _@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@qy_</tspan>
-<tspan x="25" y="93">            _@@@@@@@@@@@@@@@@jjjj@@@@@@@@@@@@@@@y_</tspan>
-<tspan x="25" y="103">         _y@@@@@@@@@j@@@@@@@@@@@@@jj@@@@@@@@@@@@@@y_</tspan>
-<tspan x="25" y="113">       _q@@@@@@@@@@@@@@@@@@jjj@@@@@@@@@@@j@@@j@@@@@@y</tspan>
-<tspan x="25" y="123">     ;j@@@@@@@@@jjj@@j@@@@@@@jj@@@@@@@@@jj@@@@@@j@@j@[</tspan>
-<tspan x="25" y="133">    j@@@@@@@@j@jjj@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@j@@@@@y</tspan>
-<tspan x="25" y="143">   j@@@@@@@@jj@@@@@@@@@@@j@@@@j@@@@@@@@@@@@@@@@@j@@@@@@L</tspan>
-<tspan x="25" y="153">  :[&quot;j@@@@@@j@Sj@@@@@@@@@@@@@@j@@@@@@@@@@@@@@jjjj@@@@@@@`</tspan>
-<tspan x="25" y="163">  ]@[@@@@@@j@@j@@@@@@@@@@@@@@@@@%@@@@@@@jjjjjjjG@@@@@@@@`</tspan>
-<tspan x="25" y="173">  ]@@@@@@@@@@@@@@@@j@jjjj@%%ShSS^\&quot;SGj@@@j@jjjjj@jj@@@@@L</tspan>
-<tspan x="25" y="183">  ]@@@@@@@@@@@@@@@Sjjh[]jj\/`^```````&quot;7hG%N@jjjjj@@@@@@@L</tspan>
-<tspan x="25" y="193">  ^%@@@@@@@@@@@@jS[j/SG@K^\jyyyyy;:.       ]jjj@@@@@P&quot;&quot;%`</tspan>
-<tspan x="25" y="203">   `]@@@@@@@@@SSS[/\\\\jg@9&quot;&quot;```````____yg@@@@@@@P7` ^\y`</tspan>
-<tspan x="25" y="213">     &quot;%@@[j][\/\\/\\\jj[[\/:\/_` .%@@@@@%MPPP%%S`  `` `j/</tspan>
-<tspan x="25" y="223">      `^Qy\\]jj\/\\\//\jjySj^j` _ @S&quot;&quot;`.`    `^\` `^y. 3`</tspan>
-<tspan x="25" y="233">        `@@NN@SSj\(\jyK]jj@@@@Z[&quot;j/:::```    `:::```]j`)`</tspan>
-<tspan x="25" y="243">        &quot;7[\/jjjS/jK\\/\\jSjSj[j(j/:`````    ``:``\/&quot;`:`</tspan>
-<tspan x="25" y="253">         ,Juhjjj_[[S/\\//\\/)j)/\j```  ```  ```::``  `:`</tspan>
-<tspan x="25" y="263">        `___j@@@@@/\Sqy/::\\/\/_y^````  ``` `::``:y(;y``</tspan>
-<tspan x="25" y="273">      k__@%%hjjjj[`:`7Qj\j[_jw7\:```      ` ``:`:://@F</tspan>
-<tspan x="25" y="283">     `{`    ^/jjU[``` &quot;&quot;&quot;&quot;&quot;[\\//::`   `  ````````\//@`</tspan>
-<tspan x="25" y="293">       \`   `\jjjh;\::/^h\//^\\\//:`    `````  `::::[</tspan>
-<tspan x="25" y="303">        7L__,u@S[jjSjj//```::``\\/\`:``:` ``````:/::`</tspan>
-<tspan x="25" y="313">          `   \jjjj(\\/\:___;__yy/:::`:`::``````:::`</tspan>
-<tspan x="25" y="323">               ^jj[\\jyjjjjjSjS&quot;\\::::::``````::/::`</tspan>
-<tspan x="25" y="333">                &quot;(Sjj%SS[[]j/^`:::::::::`````:/\`::</tspan>
-<tspan x="25" y="343">                  \jjjjSSjj\//::::::`````:`://:::``:</tspan>
-<tspan x="25" y="353">                   `Sjj/\\\(\^```````::`:://`::::::::</tspan>
-<tspan x="25" y="363">                     &quot;\j/\/\/::``````:::\//`:```\/:```</tspan>
-<tspan x="25" y="373">                       &quot;\/\\)\/::.::\/jj\\`````` ``::::</tspan>
-<tspan x="25" y="383">                         ^\j([j\\//jjjS/^:`` `  ````:````y</tspan>
-<tspan x="25" y="393">                       __yy\SGNGSSSSS[\/:`:: ` ```````` _@@gq_</tspan>
-<tspan x="25" y="403">                   __y@@@@[/\/:`^/\^/\\\::::`````````  j@@@@@@@y_</tspan>
-<tspan x="25" y="413">             __yg@@@@@@@@@[\/:`:``:::\\\\:::``````   _@@@@@@@@@@@@y_</tspan>
-<tspan x="25" y="423">       __y@@@@@@@@@@@@@@@@jj/\:::`:````:`:::::` `  _@@@@@@@@@@@@@@@@@@q___</tspan>
-<tspan x="25" y="433">     j@@@@@@@@@@@@@@@@@@@@@@yy(/:`:`:````:```` __y@@@@@@@@@@@@@@@@@@@@@@@@@@y___</tspan>
-<tspan x="25" y="443">     j@@@@@@@@@@@@j@@@@@j@@@@@@@yj_     `___yg@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@qy_</tspan>
-<tspan x="25" y="453">     j@@@@@j@@@@@@@jj@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@j@@@j@jjj@@@@@@@@@@@@@@@@@@@y_</tspan>
-<tspan x="25" y="463">     jj@@@@@@j@@j@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@j@j@@@@j@@@@@@@@@@jj@@@@@@@@@@@@@y</tspan>
-<tspan x="25" y="473">     j@@@@@@@Q@@@@j@@@@@@j@@j@@@@@@@@@@@@j@@@@@@@@@@@@j@@@j@@@@j@@@@@@@@@@j@@@@j@@jj@@@@@</tspan>
-<tspan x="25" y="483">     j@@@@@@@@@@@@@@@@@@j@@@@@@@@@@@j@@@jjj@j@@@@@@@jj@@@@@@@@@@@@@@@@@@@@@@@jjjj@@j@@@@@</tspan>
-<tspan x="25" y="493">     &quot;%@@@@@@@@@j@@@@@jjj@@@j@@j@@j@@@@j@@@j@@@@@@@j@@@@@@@@@@j@@@@@@@@@@@@@j@jj@@@@jjj@j</tspan>
-<tspan x="25" y="503">     `:&quot;%@@@@@@@j@@@@@@@@@@@@j@@@@@j@@@@@@@@@j@@@j@@j@@@j@@j@@@@@@@@@@@@@@@@@@@j@j@@@@@j@</tspan>
-<tspan x="25" y="513">     ::::`%@@@@@@@@@@@@@@j@@@jjj@@@@G@j@jj@j@@@@@jj@@@@j@@@@j@@@j@@@@@@@@j@@@@jjj@jjj@j@j</tspan>
-<tspan x="25" y="523">     :/\/::&quot;%@@@@j@@@@@@jj@@@@@@@j@@j@@@@@@j@@@@@@j@@@@@@@@@@j@jj@@@@@@@@@@@@jj@@@@@@j@@@</tspan>
-<tspan x="25" y="533">     \/\\::/:7@@@@@@@@@@@j@@@@@@@@jjj@@j@@@@@@@@@@@@jj@@@@@@@@@@jj@@@@j@@@@@@@@jjj@jj@@@@</tspan>
-<tspan x="25" y="543">     ://\/\::``&quot;G@@@@@@j@@@@@@@@@@j@@@@@@@@@@@@@@@@@@j@S@@@@j@@@jj@@@@@@@@@@@@@jjj@@@j@@@</tspan>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                                      </tspan>
+<tspan x="15" y="50">              _yyyyyyyyy__            </tspan>
+<tspan x="15" y="70">           _jjjjjjjjjjjjjjjQy         </tspan>
+<tspan x="15" y="90">         _jjjjjjjjjjjjjjjjjjjS,       </tspan>
+<tspan x="15" y="110">        jjjjjjjjjjjjjjjjjjjjjjj;      </tspan>
+<tspan x="15" y="130">       \jjjjjjjjjjjjjSjjjjjjjjjj      </tspan>
+<tspan x="15" y="150">       ]jjjjjjSSjj[||`&quot;&quot;7SSjjjSS`     </tspan>
+<tspan x="15" y="170">        \jjSS||\jj7&quot;`\yyyqGGF&quot;`\      </tspan>
+<tspan x="15" y="190">         `jyyy/\jjjjy/&quot;```````\/      </tspan>
+<tspan x="15" y="210">          `\jjj[//||/j```  ``:``      </tspan>
+<tspan x="15" y="230">         y?hSj[&quot;Syyy/``   ``:\[`      </tspan>
+<tspan x="15" y="250">         ^; )j[;/^^:\::    `:/`       </tspan>
+<tspan x="15" y="270">           ``\j\jyyy/\::```::`        </tspan>
+<tspan x="15" y="290">______        &quot;||||/:::``:::``        </tspan>
+<tspan x="15" y="310">&quot;&quot;&quot;&quot;&quot;]jy        ^\\::``:::``:``       </tspan>
+<tspan x="15" y="330">`jqy^9Fj`        _jjyyy//`` ````y__   </tspan>
+<tspan x="15" y="350">`&quot;7&quot;j@yj`   ___yGj[::::\:::```_jjjjy__</tspan>
+<tspan x="15" y="370">yyyyyjjjyyGjjjjjjjjj_:````___jjjjjjjjQ</tspan>
+<tspan x="15" y="390">`&quot;7SGjjjjjjjjjjjjjjjjjGjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="410">yy::`&quot;7GGjjjjjjjjjjjjjjjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="430">@@Qy::::`7SjjjjjjjjjjjjjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="450">&quot;&quot;&quot;`:::\:::]GjjjjjjjjjjjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="470">yyy//:\//\\:&quot;7GjjjjjjjjjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="490">&quot;||:::////:::::&quot;7SGjjjjjjjjjjjjjjjjjjQ</tspan>
+<tspan x="15" y="510">yjyy/:\///::::::::`&quot;SGjjjjjjjjjjjjjjjQ</tspan>
 </text>
-<text class="info" xml:space="preserve">
-<tspan x="496" y="40"><tspan class="t">lucca@schuller </tspan><tspan class="d">─────────────────────────────────────────────</tspan></tspan>
-<tspan x="496" y="60"><tspan class="d">. </tspan><tspan class="k">OS</tspan><tspan class="d">: ........................................... </tspan><tspan class="v">Windows 11</tspan></tspan>
-<tspan x="496" y="80"><tspan class="d">. </tspan><tspan class="k">Uptime</tspan><tspan class="d">: .................... </tspan><tspan class="v">construindo com IA desde 2025</tspan></tspan>
-<tspan x="496" y="100"><tspan class="d">. </tspan><tspan class="k">Host</tspan><tspan class="d">: ............................................ </tspan><tspan class="v">Hurbana</tspan></tspan>
-<tspan x="496" y="120"><tspan class="d">. </tspan><tspan class="k">Kernel</tspan><tspan class="d">: .................. </tspan><tspan class="v">Arquitetura e Urbanismo, Unisul</tspan></tspan>
-<tspan x="496" y="140"><tspan class="d">. </tspan><tspan class="k">IDE</tspan><tspan class="d">: ......................... </tspan><tspan class="v">Claude Code, Codex, VS Code</tspan></tspan>
-<tspan x="496" y="160"><tspan class="d">.</tspan></tspan>
-<tspan x="496" y="180"><tspan class="d">. </tspan><tspan class="k">Linguagens.Programação</tspan><tspan class="d">: ... </tspan><tspan class="v">TypeScript, Python, JavaScript</tspan></tspan>
-<tspan x="496" y="200"><tspan class="d">. </tspan><tspan class="k">Linguagens.Computador</tspan><tspan class="d">: ............. </tspan><tspan class="v">HTML, CSS, JSON, YAML</tspan></tspan>
-<tspan x="496" y="220"><tspan class="d">. </tspan><tspan class="k">Linguagens.Reais</tspan><tspan class="d">: ...................... </tspan><tspan class="v">Português, Inglês</tspan></tspan>
-<tspan x="496" y="240"><tspan class="d">.</tspan></tspan>
-<tspan x="496" y="260"><tspan class="d">. </tspan><tspan class="k">Servidor</tspan><tspan class="d">: .................... </tspan><tspan class="v">n8n em Docker, Oracle Cloud</tspan></tspan>
-<tspan x="496" y="280"><tspan class="d">. </tspan><tspan class="k">Stack</tspan><tspan class="d">: ......................... </tspan><tspan class="v">Next.js, Supabase, Vercel</tspan></tspan>
-<tspan x="496" y="300"><tspan class="d">.</tspan></tspan>
-<tspan x="496" y="320"><tspan class="d">. </tspan><tspan class="k">Hobbies.Software</tspan><tspan class="d">: .............. </tspan><tspan class="v">Agentes de IA, interfaces</tspan></tspan>
-<tspan x="496" y="340"><tspan class="d">. </tspan><tspan class="k">Hobbies.Hardware</tspan><tspan class="d">: ................. </tspan><tspan class="v">Taekwondo, faixa preta</tspan></tspan>
-<tspan x="496" y="360"><tspan class="d">.</tspan></tspan>
-<tspan x="496" y="380"><tspan class="d">- </tspan><tspan class="t">Contato </tspan><tspan class="d">──────────────────────────────────────────────────</tspan></tspan>
-<tspan x="496" y="400"><tspan class="d">. </tspan><tspan class="k">Email</tspan><tspan class="d">: ........................... </tspan><tspan class="v">schullerlucca@gmail.com</tspan></tspan>
-<tspan x="496" y="420"><tspan class="d">. </tspan><tspan class="k">Portfólio</tspan><tspan class="d">: ............. </tspan><tspan class="v">schullerlucca.github.io/portfolio</tspan></tspan>
-<tspan x="496" y="440"><tspan class="d">. </tspan><tspan class="k">Newsletter</tspan><tspan class="d">: .......................... </tspan><tspan class="v">schullerlabs.com.br</tspan></tspan>
-<tspan x="496" y="460"><tspan class="d">.</tspan></tspan>
-<tspan x="496" y="480"><tspan class="d">- </tspan><tspan class="t">Resultados </tspan><tspan class="d">───────────────────────────────────────────────</tspan></tspan>
-<tspan x="496" y="500"><tspan class="d">. </tspan><tspan class="k">Inspeções</tspan><tspan class="d">: ..... </tspan><tspan class="v">1.800 no 1º mês</tspan><tspan class="d"> | </tspan><tspan class="k">Líderes</tspan><tspan class="d">: ........... </tspan><tspan class="v">24</tspan></tspan>
-<tspan x="496" y="520"><tspan class="d">. </tspan><tspan class="k">App em sala</tspan><tspan class="d">: ............ </tspan><tspan class="v">2 dias</tspan><tspan class="d"> | </tspan><tspan class="k">Hurbana OS</tspan><tspan class="d">: .. </tspan><tspan class="v">em teste</tspan></tspan>
-<tspan x="496" y="540"><tspan class="d">. </tspan><tspan class="k">Auditoria</tspan><tspan class="d">: ................ </tspan><tspan class="v">tokens por sessão </tspan><tspan class="d">( </tspan><tspan class="del">40 mil--</tspan><tspan class="d"> )</tspan></tspan>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30"><tspan>lucca@schuller</tspan> -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 11, iOS, Linux</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-width="23" data-for="age_data"> ..................... </tspan><tspan class="value" id="age_data">20 years, 11 months, 24 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Hurbana</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Project Assistant</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">VSCode 1.143.1, Claude Code 2.1.251</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Prompts -&gt; TypeScript, Python</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Markdown</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Portuguese, English</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">CS2, Building AI Agents</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Taekwondo (Black Belt)</tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="310"><tspan>- Contact</tspan> -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">schullerlucca@gmail.com</tspan></tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">schullerlucca.github.io/portfolio</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Newsletter</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">schullerlabs.com.br</tspan></tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">nicoleschuller</tspan></tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">schullerlucca</tspan></tspan>
+<tspan x="390" y="430"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="450"><tspan>- GitHub Stats</tspan> -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots" data-width="10" data-for="repo_data contrib_data"> ...... </tspan><tspan class="value" id="repo_data">2</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">2</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots" data-width="17" data-for="star_data"> .............. </tspan><tspan class="value" id="star_data">0</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots" data-width="24" data-for="commit_data"> .................... </tspan><tspan class="value" id="commit_data">12</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots" data-width="13" data-for="follower_data"> .......... </tspan><tspan class="value" id="follower_data">0</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots" data-width="23" data-for="loc_data loc_add loc_del"> ............. </tspan><tspan class="value" id="loc_data">725</tspan> ( <tspan class="addColor" id="loc_add">804</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">79</tspan><tspan class="delColor">--</tspan> )</tspan>
 </text>
 </svg>
