@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30"><tspan>lucca@schuller</tspan> -—————————————————————————————————————————-—-</tspan>
 <tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 11, iOS, Linux</tspan></tspan>
-<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-width="51" data-for="age_data"> ..................... </tspan><tspan class="value" id="age_data">20 years, 11 months, 27 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-width="51" data-for="age_data"> ..................... </tspan><tspan class="value" id="age_data">20 years, 11 months, 28 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Hurbana</tspan></tspan>
 <tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Project Assistant</tspan></tspan>
 <tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">VSCode 1.143.1, Claude Code 2.1.251</tspan></tspan>
